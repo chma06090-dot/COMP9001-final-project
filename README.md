@@ -99,6 +99,7 @@ python -m unittest test_cooling_model.py
 
 ## AI Acknowledgement
 
+I acknowledge that artificial intelligence tools were used in this project as learning and support tools. I was responsible for the code and core logic related to the course, including market simulation, product system, customer purchase logic, pricing strategy, upgrades, random events, file handling, and testing.
 After I conceived the overall structure and completed the writing of the core logic, I used AI to refine the Python Tkinter interface.
 
 ## Link
