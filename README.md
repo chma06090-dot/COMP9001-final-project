@@ -8,7 +8,6 @@ This Python desktop app predicts how a hot drink cools down over time. The user 
 - Includes a drink type selector with common hot drinks and suggested starting temperatures.
 - Supports several cup types: ceramic mug, glass cup, paper cup, lidded takeaway cup, and insulated tumbler.
 - Lets users adjust the temperature thresholds for "too hot", "drinkable", and "cool".
-- Includes a cute cozy-game-inspired Tkinter interface with lavender and mint pastel colors, a large best-sip summary, a small mug mascot, quick drink shortcuts, a right-side actions panel, a cooling curve, a key-milestone summary table, model notes, a minute-by-minute inspector, and a reset button.
 - Recalculates from sliders immediately, and from temperature inputs when users press Enter or leave the input field.
 - Saves the current setup with the Save button and automatically restores it the next time the app opens.
 - Exports prediction data to CSV for presentations or further analysis.
