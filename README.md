@@ -101,3 +101,7 @@ python -m unittest test_cooling_model.py
 ## AI Acknowledgement
 
 After I conceived the overall structure and completed the writing of the core logic, I used AI to refine the Python Tkinter interface.
+
+## Link
+
+https://github.com/chma06090-dot/COMP9001-final-project.git
