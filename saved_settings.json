@@ -1,0 +1,11 @@
+{
+  "cold_limit": 40.0,
+  "cup_type": "Ceramic mug",
+  "drink_type": "Black coffee",
+  "good_high": 60.0,
+  "good_low": 50.0,
+  "hot_limit": 65.0,
+  "initial_temp": "100",
+  "inspect_minute": 0.0,
+  "room_temp": "22"
+}

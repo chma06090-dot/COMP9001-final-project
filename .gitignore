@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.csv
+saved_settings.json
+test_saved_settings.json
